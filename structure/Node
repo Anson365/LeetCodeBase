@@ -3,8 +3,7 @@ package structure;
 import java.util.List;
 
 /**
- * @author luodaihua
- * Created on 2019-03-09
+ * create by anson
  */
 public class Node {
     public int val;
