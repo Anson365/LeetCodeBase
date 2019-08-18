@@ -1,7 +1,7 @@
 package structure;
 
 /**
- * Created by ludao on 2017/5/25.
+ * Created by anson
  */
 public class Interval {
     public int start;
