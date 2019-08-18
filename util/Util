@@ -3,7 +3,7 @@ package util;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import BaseConstruction.TreeNode;
+import structure.TreeNode;
 
 /**
  * create by anson
